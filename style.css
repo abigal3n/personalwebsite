@@ -1,0 +1,12 @@
+.test{
+    color:red
+}
+
+.navbar a{
+    display: block
+}
+
+.writingnavbar a{
+    display: block;
+    padding: 8px 16px
+}
