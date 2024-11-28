@@ -1,3 +1,7 @@
+html {
+    max-width: 100%
+}
+
 .test{
     color:red
 }
@@ -9,4 +13,9 @@
 .writingnavbar a{
     display: block;
     padding: 8px 16px
+}
+
+.console {
+    border: none;
+    width: 50%
 }
