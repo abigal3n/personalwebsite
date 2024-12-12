@@ -2,6 +2,12 @@ html {
     max-width: 100%
 }
 
+body {
+    background-image: url('images/spacebgsketch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 .test{
     color:red
 }
@@ -17,5 +23,19 @@ html {
 
 .console {
     border: none;
-    width: 50%
+    width: 52%;
+    height: 30%;
+    margin: auto;
+    display: block;
+    position:absolute;
+    top: 60%;
+    left: 24%;
+}
+
+.panel {
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    z-index: -1;
 }

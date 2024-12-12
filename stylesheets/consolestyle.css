@@ -1,3 +1,24 @@
 body {
-    background-color: aquamarine;
+    background-color: black;
+}
+
+.consoleMenu {
+    width:fit-content;
+}
+.consoleMenu a{
+    display:block;
+    padding: 12px;
+}
+
+a:link {
+    color: palevioletred;
+    font-family: 'Courier New', Courier, monospace
+}
+a:visited {
+    color: palevioletred
+}
+
+p, h1 {
+    color: palevioletred;
+    font-family: 'Courier New', Courier, monospace
 }
